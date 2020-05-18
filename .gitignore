@@ -1,0 +1,9 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+bridge_env
+db.sqlite3
+/static
+.DS_Store
+*.properties
